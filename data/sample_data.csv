@@ -1,0 +1,12 @@
+# sample_data.csv
+# Sample dataset for demonstration purposes.
+
+name,temperature,expiration_days
+Milk,8,3
+Meat,5,1
+Vegetables,10,5
+Fruits,6,2
+Fish,12,0
+Bread,25,-1
+Cheese,5,7
+Eggs,7,1
